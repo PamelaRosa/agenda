@@ -1,10 +1,18 @@
 <component name="ProjectDictionaryState">
   <dictionary name="paros">
     <words>
+      <w>agendamentos</w>
+      <w>comandos</w>
       <w>criacao</w>
       <w>descricao</w>
+      <w>endblock</w>
+      <w>endfor</w>
       <w>evento</w>
+      <w>eventos</w>
+      <w>lista</w>
       <w>titulo</w>
+      <w>usar</w>
+      <w>usuario</w>
     </words>
   </dictionary>
 </component>
